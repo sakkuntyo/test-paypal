@@ -58,8 +58,8 @@ const createOrder = async (cart) => {
     purchase_units: [
       {
         amount: {
-          currency_code: "USD",
-          value: "5",
+          currency_code: "JPY",
+          value: "500",
         },
       },
     ],
